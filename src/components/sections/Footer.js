@@ -13,9 +13,13 @@ class Footer extends Component {
                         <div className="row">
                             <div className="col-lg-4 col-md-6 footer-contact"><br />
                                 <img src="assets/img/final_logo_PNG.png" height="70px" alt="LOGO" />
+                                <br /><br /><br />
+                                <p>A sister concern co.</p>
+                                <img src="assets/img/ctppl_logo.png" height="70px" alt="LOGO" />
+
 
                             </div>
-
+                            
 
                             {/* <div className="col-lg-2 col-md-6 footer-links">
                                 <h4>Useful Links</h4>
@@ -34,11 +38,9 @@ class Footer extends Component {
 
                             <div className="col-lg-4 col-md-6 footer-contact">
                                 <h2>PCTPPL</h2>
-                                <p>
-                                    <a href="https://g.page/PCTPPL?share" target="_blank" rel="noreferrer">
-                                        9 Square, Office no 301, 3rd Floor,<br />Santosh Nagar, Opposite to Wonder City,<br />Katraj - Dattanagar Road, Katraj,<br />Pune - 411046
-                                    </a>
-                                    <br /><br />
+                                <p><a href="https://g.page/PCTPPL?share" target="_blank" rel="noreferrer">
+                                    spandan office no.8,<br />above state bank of india,<br /> opp. mai mangeshkar hospital,<br />Mumbai Bengluru bypass,<br />411 058, Warje, Pune, Maharashtra 411058
+                                    </a><br /><br />
                                     <strong>Phone:</strong> +91 9767726744<br />
                                     <strong>Email:</strong> prakash@patankarscreative.com<br />
                                 </p>
@@ -62,7 +64,7 @@ class Footer extends Component {
                     <div className="social-links text-center text-md-right pt-3 pt-md-0">
                         {/* <Link to="/" className="twitter"><i className="bx bxl-twitter"></i></Link>
                         <Link to="/" className="facebook"><i className="bx bxl-facebook"></i></Link> */}
-                        <a href="https://www.instagram.com/patankars_creative_turnkey/" target="_blank" rel="noreferrer" className="instagram"><i className="bx bxl-instagram"></i></a>
+                        <a href="https://www.instagram.com/patankars_creative_turnkey/"  target="_blank" rel="noreferrer" className="instagram"><i className="bx bxl-instagram"></i></a>
                         {/* <Link to="/" className="google-plus"><i className="bx bxl-skype"></i></Link> */}
                         {/* <Link to="/" className="linkedin"><i className="bx bxl-linkedin"></i></Link> */}
                     </div>

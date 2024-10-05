@@ -10,18 +10,11 @@ class Completed extends Component {
         this.state = {
             industrial: [
                 {
-                    id: 45,
-                    name: "Excide Industries Ltd",
+                    id: 1,
+                    name: "Phoenix Mecano (India) Pvt. Ltd, Pune",
                     type: 1,
-                    desc: "Industrial Project | Area - 50,000 sqft |Civil, Industrial Shed | Cost - 5.5 Cr | Consultant - PK Associates | Location - Taloja",
-                    img: "assets/img/projects/exccide.png"
-                },
-                {
-                    id: 44,
-                    name: "Garware Healthcare, Wai",
-                    type: 1,
-                    desc: "Industrial Project | Area - 50,000 sqft | Civil, PEB Design Build, Road | Cost - 8 Cr | Consultant - Design Ideas, Mumbai | Location - Wai",
-                    img: "assets/img/projects/garware_healthcare.png"
+                    desc: "Industrial Project | Area - 25,000 sqft | Cost - 300 lacs | Architect - Archicon Associates, Pune | Location - Pirangunt, Tal.Maval",
+                    img: "assets/img/projects/Phoenix-Mecano.jpg"
                 },
                 {
                     id: 2,
@@ -180,9 +173,9 @@ class Completed extends Component {
                 {
                     id: 4,
                     name: "Garware Bestretch Ltd.",
-                    type: 2,
-                    desc: "Extension of Banburry Plant at Plant A, Wai Midc | Cost - 590 Lacs | Scope - Industrial Shed & Allied Infra works | Location- Wai, Satara",
-                    img: "assets/img/projects/Garware Plant A.jpg"
+                    type: 2, 
+                    desc : "Extension of Banburry Plant at Plant A, Wai Midc | Cost - 590 Lacs | Scope - Industrial Shed & Allied Infra works | Location- Wai, Satara",
+                    img: "assets/img/projects/Garware Plant A.jpg" 
                 },
                 {
                     id: 43,
@@ -197,14 +190,7 @@ class Completed extends Component {
                     id: 18,
                     name: "Camp Education Society, Pune",
                     type: 5,
-                    desc: "School Building | Area - 12,000 sq.ft | Cost - 1 Cr | Architect - PKA Associates, Pune | Location - Moshi Pradhikaran",
-                    img: "assets/img/projects/camp_edu.png"
-                },
-                {
-                    id: 18,
-                    name: "Camp Education Society, Pune",
-                    type: 5,
-                    desc: "School Building | Area - 40,000 sq.ft | Cost - 850 lacs | Architect - Prashant Kulkarni, Pune | Location - Moshi Pradhikaran",
+                    desc: "School Building | Area - 40,000 sq.ft | Cost - 850 lacs | Architect - Prashant Kilkarni, Pune | Location - Moshi Pradhikaran,",
                     img: "assets/img/projects/camp_education.jpg"
                 },
                 {
@@ -244,20 +230,6 @@ class Completed extends Component {
                 },
             ],
             residential: [
-                {
-                    id: 51,
-                    name: "ICC Godrej",
-                    type: 2,
-                    desc: "MOSA Landscape | Area - 40,000 sqft | Cost - 2.95 Cr | Pimpri Chinchwad",
-                    img: "assets/img/projects/icc_godrej.png"
-                },
-                {
-                    id: 49,
-                    name: "Godrej KP2",
-                    type: 2,
-                    desc: "Hardscape and Landscape Development | Area - 1,50,000 sqft | Cost - 1 Cr | Koregaon Park, Pune",
-                    img: "assets/img/projects/godrej_kp2.png"
-                },
                 {
                     id: 24,
                     name: "Vantage Pune",
